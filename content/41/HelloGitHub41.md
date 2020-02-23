@@ -92,7 +92,7 @@ cd gridstudio && ./run.sh # 直接运行
 
 <p align="center"><img src='https://raw.githubusercontent.com/521xueweihan/img/master/hellogithub/41/img/gridstudio.gif' style="max-width:80%; max-height=80%;"></img></p>
 
-6、[go-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/go-github)：谷歌出品的 GitHub API Go 语言版本。如果你需要做一个 GiHhub 相关的产品后端，这个可以省去很多功夫，而且还可以学习谷歌工程师写的  Go 项目、设计接口的思路。示例代码：
+6、[go-github](https://hellogithub.com/periodical/statistics/click/?target=https://github.com/google/go-github)：谷歌出品的 GitHub API Go 语言版本。如果你需要做一个 Github 相关的产品后端，这个可以省去很多功夫，而且还可以学习谷歌工程师写的  Go 项目、设计接口的思路。示例代码：
 ```go
 import "github.com/google/go-github/v27/github" // 启用的 go module (GO111MODULE=on 或者不在 GOPATH 里)
 import "github.com/google/go-github/github" // 没启用 go module 时
